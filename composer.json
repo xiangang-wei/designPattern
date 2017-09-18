@@ -1,0 +1,18 @@
+{
+    "name": "xiangang/design-pattern",
+    "description": "各种设计模式的demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiangang",
+            "email": "xiangang.wei@feixun.com.cn"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "DesignPattern\\":"src/"
+        }
+    }
+}
